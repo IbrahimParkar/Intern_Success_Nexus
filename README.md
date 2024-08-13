@@ -20,9 +20,7 @@ The dataset includes the following columns:
 - **City:** The city where the student is located.
 - **CGPA:** The student's Cumulative Grade Point Average.
 - **Experience with Python (Months):** The duration of the student's experience with Python in months.
-- **Family Income From:** The lower bound of the family income range.
-- **Family Income To:** The upper bound of the family income range.
-- **Average Family Income:** The average family income (calculated from the range).
+- **Family Income:** Family Income range of the student
 - **Expected Salary (Lacs):** The student's expected salary in lakhs.
 - **Leadership Skills:** The student's leadership skills.
 
