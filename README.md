@@ -77,11 +77,11 @@ The analysis includes the following steps:
   - `Data analyst Data Cleaned.xlsx` - Cleaned dataset.
 
 - **Visualizations:**
- - `Intern Success Nexus - Ibrahim Parkar.pbix` - Power BI file with interactive visualizations.
+   - `Intern Success Nexus - Ibrahim Parkar.pbix` - Power BI file with interactive visualizations. 
    
 - **Video**
   - Video - `Ibrahim Parkar.mp4` - Me presenting the Power BI file.
-  - 
+    
 - **Documentations**
   - `Problem Statement 1.png` - Documentation for background, relevance, objective, and basic questions.
   - `Problem Statement 2.png` - Documentation for moderate questions and deliverables.
